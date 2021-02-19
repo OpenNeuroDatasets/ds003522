@@ -1,0 +1,10 @@
+{
+  "Name": "ThreeStimAuditoryOddball",
+  "ReferencesAndLinks": ["PMID: 31228481"],
+  "Authors": [
+    "James F Cavanagh",
+    "Davin Quinn"
+  ],
+  "License": "",
+  "BIDSVersion": "1.1.1"
+}
