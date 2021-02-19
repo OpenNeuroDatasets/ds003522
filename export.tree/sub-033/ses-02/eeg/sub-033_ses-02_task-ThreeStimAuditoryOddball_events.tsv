@@ -1,0 +1,8 @@
+onset	duration	sample	trial_type	response_time	stim_file	value
+0.0000000000	n/a	n/a	STATUS	n/a	n/a	boundary
+30.1180000000	n/a	n/a	STATUS	n/a	n/a	S  5
+30.1720000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+31.1720000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+32.1720000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+33.1720000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+34.1720000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1

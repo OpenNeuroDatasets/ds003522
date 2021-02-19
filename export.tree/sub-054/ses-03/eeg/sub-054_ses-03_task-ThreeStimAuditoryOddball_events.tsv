@@ -1,0 +1,506 @@
+onset	duration	sample	trial_type	response_time	stim_file	value
+0.0000000000	n/a	n/a	STATUS	n/a	n/a	boundary
+96.2160000000	n/a	n/a	STATUS	n/a	n/a	S  5
+96.2680000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+97.2680000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+98.2700000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+99.2700000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+100.2700000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+101.2700000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+102.2700000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+103.2700000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+104.2700000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+105.2720000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+106.2720000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+107.2720000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+108.2720000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+109.2720000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+110.2720000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+111.2720000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+112.2740000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+113.2740000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+114.2740000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+115.2740000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+116.2740000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+117.2740000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+118.2740000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+119.2760000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+120.2760000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+121.2760000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+122.2760000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+123.2760000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+124.2760000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+125.2760000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+126.2760000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+127.2780000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+128.2780000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+129.2780000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+130.2780000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+131.2780000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+132.2780000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+133.2780000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+134.2800000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+135.2800000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+136.2800000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+137.2800000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+138.2800000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+139.2800000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+140.2800000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+141.2820000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+142.2820000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+143.2820000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+144.2820000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+145.2820000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+146.2820000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+147.2820000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+148.2840000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+149.2840000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+150.2840000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+151.2840000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+152.2840000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+153.2840000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+154.2840000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+155.2860000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+165.0720000000	n/a	n/a	STATUS	n/a	n/a	S  6
+165.1320000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+166.1320000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+167.1320000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+168.1320000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+169.1320000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+170.1340000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+171.1340000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+172.1340000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+173.1340000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+174.1340000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+175.1340000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+176.1340000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+177.1360000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+178.1360000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+179.1360000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+180.1360000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+181.1360000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+182.1360000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+183.1360000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+184.1380000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+185.1380000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+186.1380000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+187.1380000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+188.1380000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+189.1380000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+190.1380000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+191.1400000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+192.1400000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+193.1400000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+194.1400000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+195.1400000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+196.1400000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+197.1400000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+198.1420000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+199.1420000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+200.1420000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+201.1420000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+202.1420000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+203.1420000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+204.1420000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+205.1440000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+206.1440000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+207.1440000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+208.1440000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+209.1440000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+210.1440000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+211.1440000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+212.1460000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+213.1460000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+214.1460000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+215.1460000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+216.1460000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+217.1460000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+218.1460000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+219.1480000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+220.1480000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+221.1480000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+222.1480000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+223.1480000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+224.1480000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+275.4780000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+277.6960000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+279.7940000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+281.6580000000	n/a	n/a	Target Tone	n/a	n/a	S200
+283.5860000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+285.3760000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+287.4700000000	n/a	n/a	Novel Tone	n/a	n/a	S202
+289.4660000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+291.2700000000	n/a	n/a	Target Tone	n/a	n/a	S200
+293.5140000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+295.3640000000	n/a	n/a	Novel Tone	n/a	n/a	S202
+297.3540000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+299.5920000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+301.7380000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+303.6240000000	n/a	n/a	Target Tone	n/a	n/a	S200
+305.6380000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+307.4440000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+309.5420000000	n/a	n/a	Novel Tone	n/a	n/a	S202
+311.5240000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+313.5840000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+315.7740000000	n/a	n/a	Novel Tone	n/a	n/a	S202
+318.0140000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+319.9780000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+321.9060000000	n/a	n/a	Target Tone	n/a	n/a	S200
+324.1180000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+326.1640000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+328.0460000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+330.0480000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+332.0960000000	n/a	n/a	Target Tone	n/a	n/a	S200
+334.0780000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+336.1780000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+338.0060000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+340.0040000000	n/a	n/a	Novel Tone	n/a	n/a	S202
+342.1620000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+344.0140000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+345.8040000000	n/a	n/a	Novel Tone	n/a	n/a	S202
+348.0560000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+349.9340000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+352.1120000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+353.9240000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+356.1160000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+357.9580000000	n/a	n/a	Target Tone	n/a	n/a	S200
+359.8080000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+361.5840000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+363.7340000000	n/a	n/a	Novel Tone	n/a	n/a	S202
+366.0300000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+367.9160000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+369.8180000000	n/a	n/a	Target Tone	n/a	n/a	S200
+371.8800000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+374.0260000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+376.1980000000	n/a	n/a	Novel Tone	n/a	n/a	S202
+378.1900000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+380.3080000000	n/a	n/a	Target Tone	n/a	n/a	S200
+382.4700000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+384.5140000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+386.7620000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+388.6840000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+390.5800000000	n/a	n/a	Target Tone	n/a	n/a	S200
+392.3920000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+394.2160000000	n/a	n/a	Novel Tone	n/a	n/a	S202
+396.1180000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+398.1800000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+400.1560000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+402.3800000000	n/a	n/a	Target Tone	n/a	n/a	S200
+404.4040000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+406.5880000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+408.5700000000	n/a	n/a	Novel Tone	n/a	n/a	S202
+410.6240000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+412.4400000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+414.3580000000	n/a	n/a	Novel Tone	n/a	n/a	S202
+416.6700000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+418.8120000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+420.8980000000	n/a	n/a	Target Tone	n/a	n/a	S200
+423.0440000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+425.2460000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+427.1660000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+429.2920000000	n/a	n/a	Target Tone	n/a	n/a	S200
+431.1280000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+433.1340000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+435.1720000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+437.2760000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+439.5300000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+441.6020000000	n/a	n/a	Target Tone	n/a	n/a	S200
+443.7140000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+445.4980000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+447.3860000000	n/a	n/a	Novel Tone	n/a	n/a	S202
+449.3080000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+451.1340000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+453.1760000000	n/a	n/a	Novel Tone	n/a	n/a	S202
+455.4580000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+457.7080000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+459.9320000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+461.9260000000	n/a	n/a	Novel Tone	n/a	n/a	S202
+463.8900000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+466.1260000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+468.1060000000	n/a	n/a	Target Tone	n/a	n/a	S200
+470.3940000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+472.4680000000	n/a	n/a	Novel Tone	n/a	n/a	S202
+474.4200000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+476.3720000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+478.4980000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+480.6760000000	n/a	n/a	Target Tone	n/a	n/a	S200
+482.8940000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+484.9280000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+486.7780000000	n/a	n/a	Novel Tone	n/a	n/a	S202
+488.7320000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+490.5160000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+492.6020000000	n/a	n/a	Target Tone	n/a	n/a	S200
+494.5840000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+496.3240000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+498.5680000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+500.4200000000	n/a	n/a	Target Tone	n/a	n/a	S200
+502.3660000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+504.6020000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+506.7420000000	n/a	n/a	Novel Tone	n/a	n/a	S202
+508.6660000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+510.6700000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+512.4860000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+514.5700000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+516.5260000000	n/a	n/a	Target Tone	n/a	n/a	S200
+518.5660000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+520.7400000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+522.9300000000	n/a	n/a	Target Tone	n/a	n/a	S200
+524.8920000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+526.8280000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+529.0560000000	n/a	n/a	Novel Tone	n/a	n/a	S202
+551.9900000000	n/a	n/a	STATUS	n/a	n/a	S  7
+552.0420000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+553.0440000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+554.0440000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+555.0440000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+556.0440000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+557.0440000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+558.0440000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+559.0440000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+560.0460000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+561.0460000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+562.0460000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+563.0460000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+564.0460000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+565.0460000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+566.0460000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+567.0480000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+568.0480000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+569.0480000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+570.0480000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+571.0480000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+572.0480000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+573.0480000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+574.0500000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+575.0500000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+576.0500000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+577.0500000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+578.0500000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+579.0500000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+580.0500000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+581.0520000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+582.0520000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+583.0520000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+584.0520000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+585.0520000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+586.0520000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+587.0520000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+588.0540000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+589.0540000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+590.0540000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+591.0540000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+592.0540000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+593.0540000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+594.0540000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+595.0560000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+596.0560000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+597.0560000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+598.0560000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+599.0560000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+600.0560000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+601.0560000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+602.0580000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+603.0580000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+604.0580000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+605.0580000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+606.0580000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+607.0580000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+608.0580000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+609.0600000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+610.0600000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  1
+611.0600000000	n/a	n/a	Eyes Open: Every 1000 ms	n/a	n/a	S  2
+619.8580000000	n/a	n/a	STATUS	n/a	n/a	S  8
+619.9100000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+620.9100000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+621.9120000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+622.9120000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+623.9120000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+624.9120000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+625.9120000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+626.9120000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+627.9120000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+628.9140000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+629.9140000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+630.9140000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+631.9140000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+632.9140000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+633.9140000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+634.9140000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+635.9160000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+636.9160000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+637.9160000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+638.9160000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+639.9160000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+640.9160000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+641.9160000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+642.9180000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+643.9180000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+644.9180000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+645.9180000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+646.9180000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+647.9180000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+648.9180000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+649.9180000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+650.9200000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+651.9200000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+652.9200000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+653.9200000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+654.9200000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+655.9200000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+656.9200000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+657.9220000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+658.9220000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+659.9220000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+660.9220000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+661.9220000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+662.9220000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+663.9220000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+664.9240000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+665.9240000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+666.9240000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+667.9240000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+668.9240000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+669.9240000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+670.9240000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+671.9260000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+672.9260000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+673.9260000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+674.9260000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+675.9260000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+676.9260000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+677.9260000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  3
+678.9280000000	n/a	n/a	Eyes Closed: Every 1000 ms	n/a	n/a	S  4
+698.2700000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+700.1480000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+702.1480000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+704.2080000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+706.1960000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+708.3040000000	n/a	n/a	Target Tone	n/a	n/a	S200
+710.1200000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+712.1400000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+714.2480000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+716.1000000000	n/a	n/a	Novel Tone	n/a	n/a	S202
+717.9140000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+720.0980000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+721.9720000000	n/a	n/a	Novel Tone	n/a	n/a	S202
+724.1960000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+726.0040000000	n/a	n/a	Target Tone	n/a	n/a	S200
+728.1920000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+730.0680000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+731.9100000000	n/a	n/a	Novel Tone	n/a	n/a	S202
+733.7440000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+735.8900000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+738.1380000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+740.0400000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+741.9560000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+744.0260000000	n/a	n/a	Target Tone	n/a	n/a	S200
+746.1820000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+748.3440000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+750.2940000000	n/a	n/a	Novel Tone	n/a	n/a	S202
+752.4620000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+754.6260000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+756.6640000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+758.9260000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+760.8660000000	n/a	n/a	Target Tone	n/a	n/a	S200
+762.7560000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+764.5700000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+766.4020000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+768.2720000000	n/a	n/a	Novel Tone	n/a	n/a	S202
+770.3760000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+772.3220000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+774.5440000000	n/a	n/a	Novel Tone	n/a	n/a	S202
+776.5720000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+778.7700000000	n/a	n/a	Target Tone	n/a	n/a	S200
+780.7560000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+782.7820000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+784.5940000000	n/a	n/a	Novel Tone	n/a	n/a	S202
+786.5420000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+788.8220000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+790.9720000000	n/a	n/a	Target Tone	n/a	n/a	S200
+793.0540000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+795.2020000000	n/a	n/a	Novel Tone	n/a	n/a	S202
+797.4500000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+799.3900000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+801.5120000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+803.3600000000	n/a	n/a	Target Tone	n/a	n/a	S200
+805.3700000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+807.4100000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+809.5240000000	n/a	n/a	Novel Tone	n/a	n/a	S202
+811.8260000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+813.9060000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+816.0200000000	n/a	n/a	Target Tone	n/a	n/a	S200
+817.8220000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+819.7220000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+821.6080000000	n/a	n/a	Novel Tone	n/a	n/a	S202
+823.4760000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+825.5160000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+827.7820000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+830.0340000000	n/a	n/a	Target Tone	n/a	n/a	S200
+832.2320000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+834.2300000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+836.1540000000	n/a	n/a	Novel Tone	n/a	n/a	S202
+838.4380000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+840.4240000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+842.6960000000	n/a	n/a	Novel Tone	n/a	n/a	S202
+844.8100000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+846.7260000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+848.6720000000	n/a	n/a	Target Tone	n/a	n/a	S200
+850.8000000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+852.9720000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+855.1800000000	n/a	n/a	Novel Tone	n/a	n/a	S202
+857.3080000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+859.1420000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+861.0660000000	n/a	n/a	Target Tone	n/a	n/a	S200
+862.8600000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+864.9520000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+866.9160000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+868.6940000000	n/a	n/a	Target Tone	n/a	n/a	S200
+870.9460000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+872.7920000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+874.7420000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+876.9820000000	n/a	n/a	Novel Tone	n/a	n/a	S202
+879.1640000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+881.0460000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+883.0580000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+884.8800000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+886.9840000000	n/a	n/a	Target Tone	n/a	n/a	S200
+888.9600000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+891.0240000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+893.1980000000	n/a	n/a	Novel Tone	n/a	n/a	S202
+895.4100000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+897.3780000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+899.3160000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+901.5360000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+903.5760000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+905.4600000000	n/a	n/a	Target Tone	n/a	n/a	S200
+907.4640000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+909.4920000000	n/a	n/a	Novel Tone	n/a	n/a	S202
+911.5160000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+913.6060000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+915.4300000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+917.4360000000	n/a	n/a	Target Tone	n/a	n/a	S200
+919.5380000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+921.3920000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+923.1800000000	n/a	n/a	Novel Tone	n/a	n/a	S202
+925.4340000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+927.3060000000	n/a	n/a	Target Tone	n/a	n/a	S200
+929.4840000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+931.2880000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+933.4560000000	n/a	n/a	Novel Tone	n/a	n/a	S202
+935.3660000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+937.2180000000	n/a	n/a	Target Tone	n/a	n/a	S200
+939.0000000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+941.1480000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+943.4120000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+945.3220000000	n/a	n/a	Novel Tone	n/a	n/a	S202
+947.2740000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+949.3480000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+951.5040000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+953.6580000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+955.6200000000	n/a	n/a	Target Tone	n/a	n/a	S200
+957.7440000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+959.9140000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+961.9360000000	n/a	n/a	Novel Tone	n/a	n/a	S202
+964.2360000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+966.1880000000	n/a	n/a	Standard Tone	n/a	n/a	S201
+968.0880000000	n/a	n/a	Target Tone	n/a	n/a	S200
