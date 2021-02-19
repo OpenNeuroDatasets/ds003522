@@ -1,10 +1,13 @@
 {
-  "Name": "ThreeStimAuditoryOddball",
-  "ReferencesAndLinks": ["PMID: 31228481"],
-  "Authors": [
-    "James F Cavanagh",
-    "Davin Quinn"
-  ],
-  "License": "",
-  "BIDSVersion": "1.1.1"
+    "Name": "ThreeStimAuditoryOddball",
+    "ReferencesAndLinks": [
+        "PMID: 31228481"
+    ],
+    "Authors": [
+        "James F Cavanagh",
+        "Davin Quinn"
+    ],
+    "License": "CC0",
+    "BIDSVersion": "1.1.1",
+    "DatasetDOI": "10.18112/openneuro.ds003522.v1.0.0"
 }
